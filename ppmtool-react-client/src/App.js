@@ -9,6 +9,7 @@ class App extends Component {
         <Dashboard />
         <Dashboard />
         <Dashboard />
+        <Dashboard />
       </div>
     );
   }
